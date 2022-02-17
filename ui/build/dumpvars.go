@@ -168,6 +168,10 @@ var BannerVars = []string{
 	"SOONG_SDK_SNAPSHOT_TARGET_BUILD_RELEASE",
 	"WITH_SU",
 	"WITH_GAPPS",
+	"WITH_GAPPS_CAR",
+	"WITH_GAPPS_TV",
+	"GAPPS_MAKEFILE",
+	"MAINLINE_MODULES_MAKEFILE",
 }
 
 func Banner(make_vars map[string]string) string {
