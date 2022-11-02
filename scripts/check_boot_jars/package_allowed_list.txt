@@ -255,6 +255,10 @@ com\.google\.i18n\.phonenumbers
 org\.chromium\.arc
 org\.chromium\.arc\..*
 
+# Eunoia adds
+eunoiaos\.platform
+com\.eunoiaos\.platform\.internal
+
 # NV adds
 com\.nvidia
 com\.nvidia\..*
